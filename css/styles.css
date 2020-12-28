@@ -1,0 +1,28 @@
+/* Header */
+.header {
+  text-align: center;
+  border: 20px;
+margin: 50px;
+
+}
+
+input {
+  width: 500px;
+  height: 30px;
+}
+
+
+
+
+
+/* Grid Layout */
+.grid {
+  max-width: 800px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 200px 200px 200px 200px;
+  grid-template-rows: 200px 200px 200px 200px;
+  grid-row-gap: 20px;
+  grid-column-gap: 20px;
+
+}
